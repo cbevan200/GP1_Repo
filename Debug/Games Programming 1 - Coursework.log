@@ -1,0 +1,36 @@
+﻿  Game.cpp
+c:\documents\games programming 1 - coursework\games programming 1 - coursework\game.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\documents\games programming 1 - coursework\games programming 1 - coursework\game.cpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\documents\games programming 1 - coursework\games programming 1 - coursework\game.cpp(65): warning C4018: '<': signed/unsigned mismatch
+c:\documents\games programming 1 - coursework\games programming 1 - coursework\game.cpp(80): warning C4018: '<': signed/unsigned mismatch
+c:\documents\games programming 1 - coursework\games programming 1 - coursework\game.cpp(96): warning C4018: '<': signed/unsigned mismatch
+c:\documents\games programming 1 - coursework\games programming 1 - coursework\game.cpp(159): warning C4018: '<': signed/unsigned mismatch
+c:\documents\games programming 1 - coursework\games programming 1 - coursework\game.cpp(164): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Compiling...
+  MeteorSDL.cpp
+  Generating Code...
+  Games Programming 1 - Coursework.vcxproj -> C:\Documents\Games Programming 1 - Coursework\Debug\Games Programming 1 - Coursework.exe
+  Games Programming 1 - Coursework.vcxproj -> C:\Documents\Games Programming 1 - Coursework\Debug\Games Programming 1 - Coursework.pdb (Partial PDB)
+  copying SDL2.dll to debug director
+  C:\Users\cbeva\Desktop\SDL2\SDL2-2.0.4\lib\x86\SDL2.dll
+  1 File(s) copied
+  C:\Users\cbeva\Desktop\SDL2\SDL2_image-2.0.1\lib\x86\libjpeg-9.dll
+  C:\Users\cbeva\Desktop\SDL2\SDL2_image-2.0.1\lib\x86\libpng16-16.dll
+  C:\Users\cbeva\Desktop\SDL2\SDL2_image-2.0.1\lib\x86\libtiff-5.dll
+  C:\Users\cbeva\Desktop\SDL2\SDL2_image-2.0.1\lib\x86\libwebp-4.dll
+  C:\Users\cbeva\Desktop\SDL2\SDL2_image-2.0.1\lib\x86\SDL2_image.dll
+  C:\Users\cbeva\Desktop\SDL2\SDL2_image-2.0.1\lib\x86\zlib1.dll
+  6 File(s) copied
+  C:\Users\cbeva\Desktop\SDL2\SDL2_ttf-2.0.14\lib\x86\libfreetype-6.dll
+  C:\Users\cbeva\Desktop\SDL2\SDL2_ttf-2.0.14\lib\x86\SDL2_ttf.dll
+  C:\Users\cbeva\Desktop\SDL2\SDL2_ttf-2.0.14\lib\x86\zlib1.dll
+  3 File(s) copied
+  C:\Users\cbeva\Desktop\SDL2\SDL2_mixer-2.0.1\lib\x86\libFLAC-8.dll
+  C:\Users\cbeva\Desktop\SDL2\SDL2_mixer-2.0.1\lib\x86\libmodplug-1.dll
+  C:\Users\cbeva\Desktop\SDL2\SDL2_mixer-2.0.1\lib\x86\libogg-0.dll
+  C:\Users\cbeva\Desktop\SDL2\SDL2_mixer-2.0.1\lib\x86\libvorbis-0.dll
+  C:\Users\cbeva\Desktop\SDL2\SDL2_mixer-2.0.1\lib\x86\libvorbisfile-3.dll
+  C:\Users\cbeva\Desktop\SDL2\SDL2_mixer-2.0.1\lib\x86\SDL2_mixer.dll
+  C:\Users\cbeva\Desktop\SDL2\SDL2_mixer-2.0.1\lib\x86\smpeg2.dll
+  7 File(s) copied
